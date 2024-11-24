@@ -1,2 +1,2 @@
-# Snowglobe
-Snowglobe tap to shake 
+# chemistry lab simulator
+fun chemistry lab simulator, more updates coming 
